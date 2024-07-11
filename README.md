@@ -1,6 +1,4 @@
 # DNS Network Server (Recursive Model):
-This project simulates a DNS (Domain Name System) network using a recursive model. The system includes a local DNS server, a root server, a TLD (Top-Level Domain) server, and an authoritative server. When a client sends a URL, the servers work together to convert the URL and domain name into an IP address that computers can understand to locate the corresponding webpage.
-
 ### Introduction:
 This project simulates a DNS (Domain Name System) network using a recursive model. The system includes a local DNS server, a root server, a TLD (Top-Level Domain) server, and an authoritative server. When a client sends a URL, the servers work together to convert the URL and domain name into an IP address that computers can understand to locate the corresponding webpage.
 
