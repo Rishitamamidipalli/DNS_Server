@@ -1,0 +1,5 @@
+mail.yahoo.com 45.16.75.24
+www.eduserver.in 56.98.23.123
+www.google.com 67.74.45.135
+www.xyz.com 192.8.1.100
+www.pqr.com 192.168.5.60

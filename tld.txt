@@ -1,0 +1,5 @@
+yahoo.com 15.16.143.251
+eduserver.in 75.67.34.14
+google.com 10.14.56.123
+xyz.com 11.12.13.15
+pqr.com 45.65.78.90
